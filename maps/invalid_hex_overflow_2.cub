@@ -1,0 +1,15 @@
+F -1,0,0
+NO ./textures/bluestone.xpm
+EA ./textures/eagle.xpm
+
+SO ./textures/redbrick.xpm
+WE ./textures/wood.xpm
+C 139,69,19
+
+
+    111
+   1S10111111
+  100011110011
+ 10100000110111
+1011111101011
+ 1111111111
